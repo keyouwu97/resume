@@ -1,0 +1,78 @@
+	/*Í·²¿div*/
+	.c{
+		width:1900px;
+		height:50px;
+		background:white;
+	
+	}
+	div ul li{
+		float:left;
+		list-style:none;
+		margin-left:20px;
+		margin-top:20px;
+		
+	}
+	.shouye{
+		margin-left:400px;
+		
+	}
+	li a{
+		text-decoration:none;
+		color:gray;
+
+	}
+	ul li:hover a{
+			color:#80083e;
+	}
+	.zhuti{
+		width:1900px;
+		height:1200px;
+		background: #f6f6f6;
+		position:relative;
+	}
+	div.zhuti-0{
+		width:1000px;
+		height:200px;
+		margin-left:400px;
+		background: white;
+		display:flex;
+		top:50px;
+		border:1px solid red;
+	}
+	.zhuti-0 img{
+		margin:50px 0 0 400px;
+		width:200px;
+		height:100px;
+	}
+	.zhuti-0 a{
+		/* display:inline-block; */
+		color:red;
+		font-size:20px;
+		padding-top:100px;
+		width:120px;
+		height:200px;
+	}
+	.zhuti-1{
+		height:900px;
+		border:1px solid red;
+		margin-left:400px;
+		width:1000px;
+		background: white;
+	}
+	.zhuti-2{
+		border:1px solid red;
+		height:700px;
+		width:800px;
+		margin:0px 0 0 100px;
+	}
+	.zhuti-2 span{
+		margin:40px 0 0 300px;
+	}
+	.zhuti-2 input{
+		height:40px;
+		width:200px;
+		margin:50px 0;
+	}
+	.zhuti-2 input:hover{
+		border:red;
+	}
